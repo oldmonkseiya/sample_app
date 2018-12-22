@@ -1,24 +1,27 @@
-# README
+# Ruby on Rails チュートリアルサンプルアプリケーショん
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ふぇおじあじょじぇいふぁ
 
-Things you may want to cover:
+## ライセンス
 
-* Ruby version
+ふぇおいあっｊふぇあｊ
 
-* System dependencies
+## 使い方
 
-* Configuration
+ふぇおいあじょいふぇじょあｊ
 
-* Database creation
+```
+$ bundle install --without production 
+```
 
-* Database initialization
+その後ふおいｆじゃおｊふぇじゃ
 
-* How to run the test suite
+```
+foeajoifajs
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+foiaojfsdfjajfs
 
-* Deployment instructions
-
-* ...
+```
+foajodjfaj
+```
